@@ -68,7 +68,7 @@ ul.menu li.logo img {
     width: 20px;
     height: 20px;
     font-weight: bold;
-    background-image: url("/imagem/lupa.jpg");
+    background-image: url("./imagem/lupa.jpg");
     background-size: cover;
     cursor: pointer;
 }
